@@ -33,7 +33,7 @@ Toggle project features (project scale, PWA compliance, domestic content, Indian
  
 ## 🔬 Methodology
  
-This research package was developed using a hybrid AI workflow across three stages:
+This research package was developed within 6 hours, using a hybrid AI workflow across three stages:
  
 **1. Research & Cross-Verification**  
 Claude (Anthropic) and Gemini Deep Research were used in parallel to compile a complete summary of all federal incentives applicable to nuclear projects on Tribal Lands — including §48E ITC, §45Y PTC, §45U nuclear PTC, Direct Pay (§6417), bonus credits, and post-OBBB changes. Results from both models were cross-checked against primary sources (IRS publications, Morgan Lewis, Steptoe, Baker Botts, Nuclear Innovation Alliance) to verify credit rates, eligibility conditions, and statutory deadlines.
